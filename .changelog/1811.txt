@@ -1,3 +1,7 @@
 ```release-note:note
 Upgrade Helm from 3.20.2 to 3.21.3
 ```
+
+```release-note:dependency
+Upgrade `go` from `1.25.8` to `1.26.5`
+```
